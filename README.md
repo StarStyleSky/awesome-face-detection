@@ -8,7 +8,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Leaderboard](#leaderboard)
 
 ## Datasets
-- wider face Dataset [[Link](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)]
+- Wider Face Dataset [[Link](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)]
 
 ## Papers
 
