@@ -40,7 +40,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 ### 2018
 - <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf)]
 
-- <a name=""></a>**[DFS]**Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision[[paper](https://arxiv.org/abs/1811.08557.pdf)]
+- <a name=""></a>**[DFS]** Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision[[paper](https://arxiv.org/abs/1811.08557.pdf)]
 
 
 ## Leaderboard
