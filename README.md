@@ -22,6 +22,10 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>**[VIM-FD]** Single-Shot Scale-Aware Network for Real-Time Face Detection [[paper](https://link.springer.com/epdf/10.1007/s11263-019-01159-3?author_access_token=Jjgl-u1CAXPmSKWDljfSBfe4RwlQNchNByi7wbcMAY7Vwo_nrkuFMElF6YSQ0We34tUs42D0dyurcBAD0sJP66n6GBanVgA9qsuvh4Y_Bjf3E_n9_croQ4esS882srfHyUz-L96pU3gu_M30Kk6_XQ%3D%3D)]
 
 - <a name=""></a>Robust and High Performance Face Detector [[paper](https://arxiv.org/abs/1901.02350.pdf)]
+
+- <a name=""></a>**[ISRN]** Improved Selective Refinement Network for Face Detection [[paper](https://arxiv.org/pdf/1901.06651.pdf)]
+35
+- <a name=""></a>**[SFDet]** Single-Shot Scale-Aware Network for Real-Time Face Detection [[paper](https://link.springer.com/article/10.1007%2Fs11263-019-01159-3)]
 - <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf)][<font color=red>[code</font>](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)]
 
 ### 2019
