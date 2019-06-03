@@ -38,9 +38,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>**[SFDet]** Single-Shot Scale-Aware Network for Real-Time Face Detection [[paper](https://link.springer.com/article/10.1007%2Fs11263-019-01159-3)]
 
 ### 2018
-- <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf]
+- <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf)]
 
-- <a name=""></a>Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision[[paper](https://arxiv.org/abs/1811.08557.pd)]
+- <a name=""></a>Learning Better Features for Face Detection with Feature Fusion and Segmentation Supervision[[paper](https://arxiv.org/abs/1811.08557.pdf)]
 
 
 ## Leaderboard
