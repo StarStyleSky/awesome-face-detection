@@ -44,4 +44,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 The section is being continually updated. Note that some values have superscript, which indicates their source. 
 
 ### wider face paper result
+| Year-Conference/Journal | Methods           | Easy  | Medium| Hard |
+| ---------- | ------------------------------ | ----- | ----- | ---- |
+| 2017--ICIP | [AInnoFace](#AInnoFace)        | 0.970 | 0.961 | 0.91 |
+
 
