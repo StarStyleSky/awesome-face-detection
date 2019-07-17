@@ -28,7 +28,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf)][<font color=red>[code</font>](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)]
 
 ### 2019
-
+- <a name=""></a>BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs [[paper](https://arxiv.org/abs/1907.05047v1.pdf)]
 - <a name=""></a>**[AInnoFace]** Accurate Face Detection for High Performance [[paper](https://arxiv.org/pdf/1905.01585v3.pdf)]
 - <a name=""></a>RetinaFace: Single-stage Dense Face Localisation in the Wild [[paper](https://arxiv.org/pdf/1905.00641.pdf)]
 - <a name=""></a>PyramidBox++: High Performance Detector for Finding Tiny Face [[paper](https://arxiv.org/pdf/1904.00386.pdf)]
