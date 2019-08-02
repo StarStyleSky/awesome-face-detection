@@ -31,7 +31,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 ### 2019
 
 - <a name=""></a>	
-EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://arxiv.org/abs/1907.05047v1.pdf)]
+EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://arxiv.org/pdf/1906.06579.pdf)]
 - <a name=""></a>BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs [[paper](https://arxiv.org/abs/1907.05047v1.pdf)]
 - <a name=""></a>**[AInnoFace]** Accurate Face Detection for High Performance [[paper](https://arxiv.org/pdf/1905.01585v3.pdf)]
 - <a name=""></a>RetinaFace: Single-stage Dense Face Localisation in the Wild [[paper](https://arxiv.org/pdf/1905.00641.pdf)]
