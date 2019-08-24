@@ -33,6 +33,9 @@ EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://ar
 
 ### 2019
 
+- <a name=""></a>
+LFFD: A Light and Fast Face Detector for Edge Devices[[paper](https://arxiv.org/pdf/1904.10633.pdf)]
+
 - <a name=""></a>	
 EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://arxiv.org/pdf/1906.06579.pdf)]
 - <a name=""></a>BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs [[paper](https://arxiv.org/abs/1907.05047v1.pdf)]
