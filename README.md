@@ -14,7 +14,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### arXiv papers
 This section only includes the last 20 papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/StarStyleSky/awesome-face-detection/edit/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance)
-
+- <a name=""></a>
+LFFD: A Light and Fast Face Detector for Edge Devices[[paper](https://arxiv.org/pdf/1904.10633.pdf)]
 - <a name=""></a>
 EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://arxiv.org/pdf/1906.06579.pdf)]
 - <a name=""></a>BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs [[paper](https://arxiv.org/abs/1907.05047v1.pdf)]
