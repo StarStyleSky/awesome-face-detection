@@ -30,6 +30,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a>PCN[[code](https://github.com/MagicJackStone/FaceKit)]
 
+- <a name=""></a>Find Tiny Face[[code](https://github.com/MagicJackStone/FaceKit)]
+
 ## Papers
 
 ### arXiv papers
