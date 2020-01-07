@@ -30,7 +30,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a>PCN[[code](https://github.com/MagicJackStone/FaceKit)]
 
-- <a name=""></a>Find Tiny Face[[code](https://github.com/MagicJackStone/FaceKit)]
+- <a name=""></a>Find Tiny Face[[code](https://github.com/peiyunh/tiny)]
+
+- <a name=""></a>ExtendedTinyFaces[[code](https://github.com/alexattia/ExtendedTinyFaces)]
+
+- <a name=""></a>Face-MagNet[[code](https://github.com/po0ya/face-magnet)]
+
+- <a name=""></a>smallhardface[[code](https://github.com/bairdzhang/smallhardface)]
 
 ## Papers
 
