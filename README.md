@@ -19,6 +19,7 @@ This section only includes the last 20 papers since 2018 in [arXiv.org](arXiv.or
 
 - <a name=""></a>HAMBox: Delving into Online High-quality Anchors Mining
 for Detecting Outer Faces[[paper](https://arxiv.org/pdf/1912.09231v1.pdf)]
+- <a name=""></a>Face Detection with Feature Pyramids and Landmarks[[paper](https://arxiv.org/pdf/1912.00596.pdf)]
 - <a name=""></a>
 RefineFace: Refinement Neural Network for High Performance Face Detection[[paper](https://arxiv.org/pdf/1909.04376.pdf)]
 - <a name=""></a>
@@ -44,6 +45,8 @@ EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://ar
 ### 2019
 
 - <a name=""></a>HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces[[paper](https://arxiv.org/pdf/1912.09231v1.pdf)]
+
+- <a name=""></a>Face Detection with Feature Pyramids and Landmarks[[paper](https://arxiv.org/pdf/1912.00596.pdf)]
 - <a name=""></a>
 RefineFace: Refinement Neural Network for High Performance Face Detection[[paper](https://arxiv.org/pdf/1909.04376.pdf)]
 - <a name=""></a>
