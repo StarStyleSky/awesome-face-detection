@@ -68,6 +68,8 @@ EXTD: Extremely Tiny Face Detector via Iterative Filter Reus [[paper](https://ar
 - <a name=""></a>DSFD: Dual Shot Face Detector [[paper](https://arxiv.org/abs/1810.10220.pdf)][<font color=red>[code</font>](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)]
 - <a name=""></a>**[DAFE-FD]** DAFE-FD: Density Aware Feature Enrichment for Face Detection [[paper](https://arxiv.org/pdf/1901.05375.pdf)]
 ### 2020
+
+- <a name=""></a>**[KPNet]** KPNet: Towards Minimal Face Detector [[paper](https://arxiv.org/pdf/2003.07543.pdf)]
 ### 2019
 
 - <a name=""></a>HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces[[paper](https://arxiv.org/pdf/1912.09231v1.pdf)]
