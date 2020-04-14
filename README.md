@@ -42,7 +42,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### arXiv papers
 This section only includes the last 20 papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/StarStyleSky/awesome-face-detection/edit/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance)
-
+- <a name=""></a>**[KPNet]** KPNet: Towards Minimal Face Detector [[paper](https://arxiv.org/pdf/2003.07543.pdf)]
 - <a name=""></a>HAMBox: Delving into Online High-quality Anchors Mining
 for Detecting Outer Faces[[paper](https://arxiv.org/pdf/1912.09231v1.pdf)]
 - <a name=""></a>Face Detection with Feature Pyramids and Landmarks[[paper](https://arxiv.org/pdf/1912.00596.pdf)]
